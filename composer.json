@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "framework/"
+        }
+    },
+
+    "require": {
+        "symfony/http-foundation": "2.5.*",
+        "symfony/http-kernel": "2.5.*",
+        "symfony/routing": "2.5.*"
+    }
+}
